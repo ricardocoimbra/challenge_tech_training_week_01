@@ -7,16 +7,16 @@
 ### Critérios de aceite
 
 - [x] Criar uma página de login
-- [ ] Criar uma página de dashboard
+- [x] Criar uma página de dashboard
 - [x] Utilizar pelo menos um formulário (em qualquer página)
-- [ ] Utilizar pelo menos uma tabela (em qualquer página)
-- [ ] Utilizar pelo menos uma lista (em qualquer página)
-- [ ] Utilizar layout Tableless (ou seja, utilização das divisões/div's)
+- [x] Utilizar pelo menos uma tabela (em qualquer página)
+- [x] Utilizar pelo menos uma lista (em qualquer página)
+- [x] Utilizar layout Tableless (ou seja, utilização das divisões/div's)
 - [x] Utilizar HTML no projeto
 - [x] Utilizar CSS no projeto
 - [x] Utilizar Bootstrap no projeto (Componentes e Grid)
 - [x] Todas as páginas devem ser responsivas
 - [x] O projeto deve ser disponibilizado no GitHub
 - [x] O repositório do GitHub deve possuir um README com uma descrição básica do projeto
-- [ ] Utilizar alguma animação básica do CSS
+- [x] Utilizar alguma animação básica do CSS
 - [x] Utilizar algum layout Grid ou FlexBox
